@@ -6,9 +6,9 @@
 	- [Examples](#examples)
 	- [Image Credits](#image-credits)
 
-A Blemish Removal tool in OpenCV that replicates the Heal Brush tool from Photoshop. The Heal Brush is used to remove blemishes, spots, and unwanted objects from an image.
+A Blemish Removal tool in OpenCV that replicates the Healing Brush tool from Photoshop. The Healing Brush is used to remove blemishes, spots, and unwanted objects from an image.
 
-The Heal Brush is used by first selecting the unwanted object. A target region is then selected to clone from and replace the unwanted object. The patch is then blended to create a seamless image with the object removed. 
+The Healing Brush is used by first selecting the unwanted object. A target region is then selected to clone from and replace the unwanted object. The patch is then blended to create a seamless image with the object removed. 
 
 The Blemish Removal tool is great at removing pimples, unwanted objects or animals, or sensor dust. 
 
