@@ -38,9 +38,9 @@ pip3 install opencv-python
 
 ## Examples
 
-![Before After Blemish](before-after-blemish.jpg?raw=true "Before After Blemish")
+![Before After Blemish](https://github.com/CzJLee/Blemish-Removal/blob/master/before-after-blemish.jpg?raw=true "Before After Blemish")
 
-![Before After Birds](before-after-birds.jpg?raw=true "Before After Birds")
+![Before After Birds](https://github.com/CzJLee/Blemish-Removal/blob/master/before-after-birds.jpg?raw=true "Before After Birds")
 
 
 ## Image Credits
