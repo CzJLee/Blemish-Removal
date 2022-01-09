@@ -20,7 +20,7 @@ python3 blemish.py -i <input_path> -o <output_path>
 
 `<input_path>`: Pathname of image to touchup. If no input path is given, a sample image will be used.
 
-`<output_path>` (optional): The file name to save the final image. 
+`<output_path>`: (optional) The file name to save the final image. 
 
 Keyboard Shortcuts:
 * Press `ESC` to exit the program. 
